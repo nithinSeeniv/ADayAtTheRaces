@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace GreyhoundRaces
+namespace GreyhoundRaces //This program is a part of Head First C# Exercise #1
 {
     public partial class Form1 : Form
     {
